@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\bin\Debug\A simple calculator.exe.config
+c:\users\user\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\bin\Debug\A simple calculator.exe
+c:\users\user\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\bin\Debug\A simple calculator.pdb
+c:\users\user\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\obj\Debug\A simple calculator.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\obj\Debug\A_simple_calculator.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\obj\Debug\A_simple_calculator.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\obj\Debug\A simple calculator.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\obj\Debug\A simple calculator.exe
+c:\users\user\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\obj\Debug\A simple calculator.pdb
+C:\Users\USER\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\obj\Debug\A_simple_calculator.Form2.resources
+C:\Users\USER\documents\visual studio 2012\Projects\A simple calculator\A simple calculator\obj\Debug\A_simple_calculator.Form3.resources

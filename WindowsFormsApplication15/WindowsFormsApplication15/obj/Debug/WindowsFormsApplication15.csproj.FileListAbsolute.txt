@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
